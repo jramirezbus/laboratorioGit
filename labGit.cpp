@@ -13,7 +13,7 @@ int main(){
 		
 		string linea;
 		while(getline(archivoEntrada, linea)){
-			
+			cout << linea << endl;
 		}
 		
 	}
